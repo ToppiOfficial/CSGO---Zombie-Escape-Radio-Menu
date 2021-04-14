@@ -176,7 +176,7 @@
 				}
 				"Healthshot"
 				{
-					"hotkey"	"3"
+					"hotkey"	"5"
 					"label"	"Use Healthshot"
 					"cmd"	"slot12"
 				}
